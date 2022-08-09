@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: black;
+}
+h2 {
+    color: white;
+    font-size: 7rem;
+    margin-left: 2rem;
+}
+p {
+    color: white;
+}
+.text {
+    color: white;
+    font-size: 2rem;
+    margin-left: 4rem;
+}
+.container{
+    display: flex;
+    margin: 1rem 1px 1px 4rem;
+}
+.img1 img {
+    width: 528px;
+    height: 352px;
+    margin-left: 1rem;
+    margin-right: 1rem; 
+}
+.img1 p {
+    text-align: center;
+    font-size: 30px;
+}
+.img2 img {
+    margin-left: 1rem;
+}
+.img2 p {
+    text-align: center;
+    font-size: 30px;
+}
